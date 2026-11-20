@@ -1,0 +1,8 @@
+body{margin:0;font-family:system-ui,sans-serif}
+main{max-width:1000px;margin:0 auto;padding:20px}
+h1{margin:0}
+nav,.acoes{display:flex;gap:8px;margin:12px 0}
+section{margin-bottom:24px}
+section>.r4-panel{margin-bottom:16px}
+.painel-form{max-width:640px}
+#aviso{margin-top:8px}
