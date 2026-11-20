@@ -13,14 +13,14 @@ Sistema de cadastro de **Estudantes** (com endereço), **Cursos** e **Matrícula
 
 - PHP 8.2+ com a extensão `mongodb` 2.4+ e a biblioteca oficial `mongodb/mongodb` (Composer)
 - MongoDB (local ou Atlas)
-- Mini framework PHP próprio (`core/` e `src/`): roteador, controller, segurança de requisições e leitura do `.env`
-- **libr4**: biblioteca de interface em JavaScript, de autoria própria (`public/libr4/dist`)
+- Mini framework PHP de autoria de Otávio Silva, r4dev.com.br (`core/` e `src/`): roteador, controller, segurança de requisições e leitura do `.env`
+- **libr4**: biblioteca de interface em JavaScript, de autoria de Otávio Silva, r4dev.com.br (`public/libr4/dist`)
 
 ## Uso de Inteligência Artificial
 
 Foi utilizada IA (Claude, da Anthropic) como ferramenta de apoio no desenvolvimento deste trabalho, principalmente na implementação do cadastro, na integração com o MongoDB e na documentação.
 
-A **base do PHP (mini framework em `core/`) e a biblioteca libr4 são de autoria própria** dos participantes e foram desenvolvidas anteriormente, sem depender deste trabalho.
+A **base do PHP (mini framework em `core/`) e a biblioteca libr4 são de autoria própria de Otávio Silva**, desenvolvidas anteriormente, sem depender deste trabalho. Desenvolvido por [r4dev.com.br](https://r4dev.com.br).
 
 ## Estrutura do banco (MongoDB)
 
